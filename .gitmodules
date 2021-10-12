@@ -1,0 +1,6 @@
+[submodule "packages/create-react-ui-zerotohero"]
+	path = packages/create-react-ui-zerotohero
+	url = https://github.com/nutsjian/create-react-ui-zerotohero.git
+[submodule "packages/create-jslib-zerotohero"]
+	path = packages/create-jslib-zerotohero
+	url = https://github.com/nutsjian/create-jslib-zerotohero.git
